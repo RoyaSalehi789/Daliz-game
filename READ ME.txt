@@ -1,5 +1,11 @@
-daliz/quridor 
-it was the final project of fundamental programing
+Daliz - game
+    Final Project of Fundamentals of Computer and Programming
+    Dr.Mahdavi
+    December 2021
+
+    C++
+    file
+    
 
 writed by:
 Mohammad Kazem Harandi
