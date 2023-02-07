@@ -1,22 +1,22 @@
-Daliz game
 
+    Daliz - game
+        Final Project of Fundamentals of Computer and Programming
+        Dr.Mahdavi
+        December 2021
 
-    Final Project of Fundamentals of Computer and Programming
-    Dr.Mahdavi
-    December 2021
-
-    C++
-    file
-    Structure
+        C++
+        file
     
-writed by:
-Mohammad Kazem Harandi
 
-Roya Salehi:
-https://www.linkedin.com/in/roya-salehi-878925253/
-https://github.com/RoyaSalehi789
+    writed by:
+    Mohammad Kazem Harandi
 
-Hosein Aghaee:
-https://github.com/hosseinAghaeii
+    Roya Salehi:
+    https://www.linkedin.com/in/roya-salehi-878925253/
+    https://github.com/RoyaSalehi789
+
+    Hosein Aghaee:
+    https://github.com/hosseinAghaeii
+
 
 
