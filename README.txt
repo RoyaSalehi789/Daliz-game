@@ -1,12 +1,14 @@
-Daliz - game
+Daliz game
+
+
     Final Project of Fundamentals of Computer and Programming
     Dr.Mahdavi
     December 2021
 
     C++
     file
+    Structure
     
-
 writed by:
 Mohammad Kazem Harandi
 

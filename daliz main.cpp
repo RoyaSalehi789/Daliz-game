@@ -5,8 +5,9 @@
 #include <windows.h>
 #include <ctime>
 
-
 using namespace std ;
+
+
 
 void print_avalieh();
 void entekhab_zaban();
